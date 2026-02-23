@@ -1,1 +1,22 @@
-/__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (caso use depois)
+venv/
+.venv/
+env/
+ENV/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
