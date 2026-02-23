@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# <p align="center">
-  <img src="./assets/python_banner_miguel_v2.png" alt="Banner Python Miguel Mantoan Castellani">
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b46b72b-aa15-43d0-b68a-71a55cb6b69b" />
 
 # Olá! Eu sou Miguel Mantoan Castellani 👋
 
