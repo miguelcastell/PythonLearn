@@ -1,7 +1,6 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/91422763-d46b-428c-a1a4-1d8f7b3c130c" />
+<img width="1536" height="244" alt="553451698-91422763-d46b-428c-a1a4-1d8f7b3c130c" src="https://github.com/user-attachments/assets/7f4647e4-08d0-4d03-9453-d85af51b9a27" />
 
-
-# Olá! Eu sou Miguel Mantoan Castellani 👋
+# Aprendizados de Python 🐍
 
 Bem-vindos ao meu repositório dedicado à minha jornada de aprendizado no curso **"Programação PYTHON Do Zero a Inteligência Artificial 2026"** da Udemy, ministrado pelo Andre Iacono. Como graduando em Inteligência Artificial e Analista de Sistemas e de Dados, estou sempre em busca de aprimorar minhas habilidades e explorar novas fronteiras na tecnologia, especialmente no vasto universo da Inteligência Artificial e Python.
 
