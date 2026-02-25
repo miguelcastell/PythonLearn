@@ -20,3 +20,5 @@ ENV/
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
+
+EngDeDados/data/data.csv
