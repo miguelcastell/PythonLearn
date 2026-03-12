@@ -35,42 +35,16 @@ Desenvolvi habilidades essenciais para trabalhar com dados, utilizando bibliotec
 *   **Pandas**: Para análise e manipulação de estruturas de dados, como DataFrames.
 *   **Matplotlib**: Para criar visualizações de dados informativas e atraentes.
 
-### 🧠 Machine Learning com Scikit-learn
-
-Explorei o universo do Machine Learning, aprendendo a construir e avaliar modelos preditivos:
-*   **Algoritmos de ML**: Regressão, classificação, clustering.
-*   **Pré-processamento de Dados**: Preparando dados para treinamento de modelos.
-*   **Avaliação de Modelos**: Métricas e técnicas para garantir a eficácia dos modelos.
-
-### 🚀 Deep Learning com TensorFlow e Keras
-
-Avancei para o Deep Learning, construindo e treinando redes neurais complexas:
-*   **Redes Neurais Artificiais (RNAs)**: Compreendendo a arquitetura e o funcionamento.
-*   **TensorFlow e Keras**: Utilizando essas frameworks para desenvolver e otimizar modelos de Deep Learning.
-
-### 🗣️ Processamento de Linguagem Natural (NLP)
-
-Descobri como as máquinas podem entender e processar a linguagem humana:
-*   **Técnicas de NLP**: Tokenização, stemming, lematização.
-*   **Aplicações Reais**: Análise de sentimento, sumarização de texto, chatbots.
-
 ### 👁️ Visão Computacional com OpenCV
 
 Explorei como os computadores podem "ver" e interpretar imagens:
 *   **OpenCV**: Para manipulação de imagens e vídeos.
 *   **Redes Neurais Convolucionais (CNNs)**: Aplicadas ao reconhecimento de objetos e análise de imagens.
 
-### ✨ Inteligência Artificial Generativa
-
-Uma das áreas mais fascinantes, onde aprendi sobre:
-*   **Transformers**: Arquiteturas avançadas para modelos de linguagem.
-*   **Modelos de Geração de Conteúdo**: Criando texto, imagens e outras mídias com IA.
 
 ## Projetos Práticos
 
-Ao longo do curso, tive a oportunidade de aplicar todo o conhecimento adquirido em projetos práticos, incluindo:
-*   **Chatbots com IA**
-*   **Assistentes Virtuais**
+Ao longo do curso, tive a oportunidade de aplicar todo o conhecimento adquirido em projetos práticos (não estão em repositório ainda), incluindo:
 *   **Sistemas Preditivos**
 *   **Automações Inteligentes**
 *   **Publicação de Aplicações com Streamlit**
